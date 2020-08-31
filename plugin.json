@@ -1,0 +1,34 @@
+{
+  "type": "panel",
+  "name": "iFrame",
+  "id": "nubeio-grafana-iframe-panel",
+  "info": {
+    "description": "iFrame for wrapping contents inside Grafana page",
+    "author": {
+      "name": "RaiBnod",
+      "url": "https://nube-io.com/"
+    },
+    "keywords": ["plugin", "iFrame"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/NubeIO/grafana-iframe-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/NubeIO/grafana-iframe-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2020-08-31"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
