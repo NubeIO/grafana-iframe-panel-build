@@ -5,7 +5,7 @@
   "info": {
     "description": "iFrame for wrapping contents inside Grafana page",
     "author": {
-      "name": "RaiBnod",
+      "name": "Nube iO",
       "url": "https://nube-io.com/"
     },
     "keywords": ["plugin", "iFrame"],
@@ -25,7 +25,7 @@
     ],
     "screenshots": [],
     "version": "1.0.0",
-    "updated": "2020-09-02"
+    "updated": "2020-09-09"
   },
   "dependencies": {
     "grafanaVersion": "6.3.x",
